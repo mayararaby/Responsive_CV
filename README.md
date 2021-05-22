@@ -1,4 +1,4 @@
-# Responsive_CV
+# Resume design Template
 
 This simple responsive CV  made using Html , Css and Bootstrap 4 .
 
