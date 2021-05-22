@@ -1,6 +1,6 @@
 # Responsive_CV
 
-This website is responsive web design made using Html , Css and Bootstrap
+This simple responsive CV  made using Html , Css and Bootstrap 4 .
 
 You can check the live demo from [here](https://rwdcv.netlify.app/)
 
